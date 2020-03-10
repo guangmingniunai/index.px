@@ -5,7 +5,7 @@
   <title> oppo </ title>
 </ head>
 
-<body background =“ C：\ Users \ Public \ Pictures \ Sample Pictures \ 1.jpg” style =“ background-repeat：no-repeat; background-size：100％100％; background-attachment：fixed;”>
+<body background =“1.jpg” style =“ background-repeat：no-repeat; background-size：100％100％; background-attachment：fixed;”>
   <hr />
 
     <div style =“ letter-spacing：5px; background-color：red; width：100px; margin：0 auto”> oppo </ div>
