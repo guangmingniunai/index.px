@@ -1,6 +1,6 @@
 <！DOCTYPE html>
 <html>
-<头>
+<body>
   <meta charset =“ utf-8”>
   <title> oppo </ title>
 </ head>
