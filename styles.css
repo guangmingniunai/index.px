@@ -1,0 +1,31 @@
+img {
+    width: 175px;
+    border-width: 10px;
+    border-color: red;
+    border-style: dashed;
+}
+.red{
+	color: red;
+}
+
+.redgan{
+	color: red;
+	text-decoration: line-through;
+}
+.yellow{
+	color: yellow;
+}
+.green{
+	color: green;
+}
+.greengan{
+	color: green;
+	text-decoration: line-through;
+}
+.bluegan{
+	color: blue;
+	text-decoration: line-through;
+}
+.blue{
+	color: blue;
+}
